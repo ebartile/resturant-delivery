@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "718160877033",
+    "firebase_url": "https://delivery-boy-e6aee.firebaseio.com",
+    "project_id": "delivery-boy-e6aee",
+    "storage_bucket": "delivery-boy-e6aee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718160877033:android:9ca71bda86496ae1766778",
+        "android_client_info": {
+          "package_name": "com.pesaify.restaurant.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718160877033-52c99k8no1u3icpeuao8ugtm9njih70k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC320kn5BFIzo4LL7rjAqo2odeL1Sh1igM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718160877033-52c99k8no1u3icpeuao8ugtm9njih70k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "718160877033-te3kdjuab19r7k2snfo3eobqdkaruh41.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pesaify.restaurant.delivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
